@@ -1,0 +1,22 @@
+﻿Build started 2015/11/4 13:11:38.
+     1>Project "E:\程序\语言程序\Freescale\图像处理\二值化参考WINAPI代码\MyDIP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp".\Debug\MyDIP.pch" /Fo".\Debug\\" /Fd".\Debug\vc140.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt MyDIPDoc.cpp
+         MyDIPDoc.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\MyDIP.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:".\Debug\MyDIP.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\MyDIP.lib" /MACHINE:X86 /SAFESEH .\Debug\MyDIP.res
+         .\Debug\dibapi.obj
+         .\Debug\MainFrm.obj
+         .\Debug\mydib.obj
+         .\Debug\MyDIP.obj
+         .\Debug\MyDIPDoc.obj
+         .\Debug\MyDIPView.obj
+         .\Debug\StdAfx.obj
+         MyDIP.vcxproj -> E:\程序\语言程序\Freescale\图像处理\二值化参考WINAPI代码\.\Debug\MyDIP.exe
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\bscmake.exe /nologo /o".\Debug\MyDIP.bsc" .\Debug\dibapi.sbr .\Debug\MainFrm.sbr .\Debug\mydib.sbr .\Debug\MyDIP.sbr .\Debug\MyDIPDoc.sbr .\Debug\MyDIPView.sbr .\Debug\StdAfx.sbr
+     1>Done Building Project "E:\程序\语言程序\Freescale\图像处理\二值化参考WINAPI代码\MyDIP.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.00
